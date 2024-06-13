@@ -2,7 +2,7 @@ import Hero from "~/components/Hero";
 import JoinWaitlist from "~/components/JoinWaitlist";
 import ThreeItems from "~/components/ThreeItems";
 
-const joinWaitingListUrl = "https://www.google.com";
+const joinWaitingListUrl = "https://forms.gle/8vWbAy9bShYjVxSKA";
 
 export default function ProfessionalsPage() {
   return (
